@@ -1,0 +1,92 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+button {
+    cursor: pointer;
+}
+
+li {
+    list-style-type: none;
+}
+
+/* Header */
+
+.header {
+    padding-right: 100px;
+    background: url(../img/header/background.jpg) top no-repeat;
+    background-attachment: fixed;
+}
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+.header-row {
+    display: flex;
+    justify-content: space-between;
+}
+.header__logo {
+    font-family: "Montserat";
+}
+.header__menu {
+}
+.menu__icon {
+}
+.menu__span {
+}
+.menu__body {
+}
+.menu__list {
+    display: flex;
+    justify-content: space-between;
+    width: 450px;
+}
+.menu_link {
+}
+.header__phone {
+}
+.main {
+}
+.main__title {
+}
+.main__subtitle {
+}
+.main__desc {
+}
+.main__btn-wrap {
+}
+.main__btn {
+}
+.btn__decor {
+}
+.main__advantage {
+}
+.advantage-main {
+}
+.advantage-main__blocks {
+}
+.advantage-main__block {
+}
+.advantage-main__img {
+}
+.advantage-main__descr {
+}
+.advantage-main__btn-wrap {
+}
+.advantage-main__btn {
+}
+.advantage-main__decor {
+}
